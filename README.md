@@ -1,10 +1,10 @@
-# 🐾 CLI-Cat
+# 🐾 CLI-cat
 
 do you have your command line open a lot?  
 does it feel lonely in there?  
 
-**meet CLI-Cat**, your adorable digital cat who lives right in your terminal! ❤️ 
-CLI-Cat is here to keep you company, purr softly at your successes, and judge your questionable coding choices (with love, of course).  
+**meet CLI-cat**, your adorable digital cat who lives right in your terminal! ❤️ 
+CLI-cat is here to keep you company, purr softly at your successes, and judge your questionable coding choices (with love, of course).  
 
 ---
 
@@ -55,7 +55,7 @@ python cli-cat.py
 ---
 
 ## 🐱 sample interaction
-here’s a peek at life with CLI-Cat:  
+here’s a peek at life with CLI-cat:  
 
 ```plaintext
 Piano's Stats:
@@ -81,8 +81,8 @@ Piano: Piano purrs loudly and rubs against your leg.
 
 ---
 
-## 🐾 why CLI-Cat?
+## 🐾 why CLI-cat?
 because your terminal deserves a bit of companionship! 🐈‍⬛  
-let CLI-Cat bring joy to your coding sessions.
+let CLI-cat bring joy to your coding sessions.
 
 made with love, naylith <3
