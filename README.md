@@ -20,14 +20,14 @@ CLI-Cat is here to keep you company, purr softly at your successes, and judge yo
 
 ---
 
-## 🐾 getting Started
+## 🐾 getting started
 ### 1. clone the Repository
 ```bash
 git clone https://github.com/naylith/cli-cat.git
 cd cli-cat
 ```
 
-### 2. run the Game
+### 2. run the game
 Make sure you have Python installed, then start the game:
 ```bash
 python cli-cat.py
