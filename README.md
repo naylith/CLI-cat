@@ -3,7 +3,7 @@
 do you have your command line open a lot?  
 does it feel lonely in there?  
 
-**Meet CLI-Cat**, your adorable digital cat who lives right in your terminal! 🎉  
+**meet CLI-Cat**, your adorable digital cat who lives right in your terminal! ❤️ 
 CLI-Cat is here to keep you company, purr softly at your successes, and judge your questionable coding choices (with love, of course).  
 
 ---
