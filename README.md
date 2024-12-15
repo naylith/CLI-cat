@@ -30,7 +30,7 @@ cd cli-cat
 ### 2. run the Game
 Make sure you have Python installed, then start the game:
 ```bash
-python cat.py
+python cli-cat.py
 ```
 
 ---
